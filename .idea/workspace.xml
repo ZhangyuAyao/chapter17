@@ -2,16 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1d887c28-bcb3-4ce0-827e-ce39c5486bd9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hspedu/homework/Homework01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hspedu/method/ThreadMethod02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hspedu/method/ThreadMethod03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hspedu/method/ThreadMethodExercise.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hspedu/state_/ThreadState_.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hspedu/syn/DeadLock_.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hspedu/syn/SellTicket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hspedu/homework/Homework02.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/chapter17/com/hspedu/method/ThreadMethod01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter17/com/hspedu/method/ThreadMethod01.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +49,7 @@
       <recent name="C:\Users\bytedance\IdeaProjects\chapter17\src\com\hspedu\syn" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Homework01">
+  <component name="RunManager" selected="Application.Homework02">
     <configuration name="DeadLock_" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.hspedu.syn.DeadLock_" />
       <module name="chapter17" />
@@ -84,12 +76,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SellTicket" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.hspedu.syn.SellTicket" />
+    <configuration name="Homework02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hspedu.homework.Homework02" />
       <module name="chapter17" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.hspedu.syn.*" />
+          <option name="PATTERN" value="com.hspedu.homework.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThreadMethod03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.hspedu.method.ThreadMethod03" />
+    <configuration name="SellTicket" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hspedu.syn.SellTicket" />
       <module name="chapter17" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.hspedu.method.*" />
+          <option name="PATTERN" value="com.hspedu.syn.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Homework02" />
         <item itemvalue="Application.Homework01" />
         <item itemvalue="Application.DeadLock_" />
         <item itemvalue="Application.SellTicket" />
         <item itemvalue="Application.ThreadState_" />
-        <item itemvalue="Application.ThreadMethod03" />
       </list>
     </recent_temporary>
   </component>
@@ -142,7 +134,7 @@
       <option name="presentableId" value="Default" />
       <updated>1642513107478</updated>
       <workItem from="1642513108552" duration="669000" />
-      <workItem from="1642552343919" duration="27741000" />
+      <workItem from="1642552343919" duration="31078000" />
     </task>
     <servers />
   </component>
